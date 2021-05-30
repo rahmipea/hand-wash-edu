@@ -1,13 +1,15 @@
 # Hand wash edu
+---
++ [Gambar Dataset](http://https//github.com/rahmipea/README#gambar-dataset) 
++ [Dataset](http://https//github.com/rahmipea/README#dataset)
 
-[Contoh Dataset](http://https//github.com/rahmipea/README#contoh-dataset) 
-
+---
 Repo ini berisikan Capstone Project Bangkit 2021 yakni tentang Hand wash edu berupa Aplikasi Android.
 Hand wash edu, merupakan aplikasi android yang digunakan untuk mengedukasi anak-anak dalam mencuci tangan secara benar menurut standar WHO dengan cara memberikan informasi dan fakta menarik tentang mencuci tangan. Selain itu dalam aplikasi ini juga terdapat exercise untuk mendeteksi apakah mereka telah mempraktikan nya dengan benar atau tidak. Dengan cara aplikasi akan mendeteksi gerakan tangan mereka melalui kamera hp, lalu oleh Machine Learning akan dideteksi termasuk langkah-langkah yang dianjurkan ataukan tidak. 
 
 Dataset yang digunakan dalam pelatihan Machine Learning tersebut berupa video dari masing masing langkah yang mempresentasikan langkah yang benar dan dianjurkan oleh WHO. 
 
-## Contoh Dataset
+## Gambar Dataset
 ![Sample-HandWashDataset](https://user-images.githubusercontent.com/66559322/120105814-c03d0380-c184-11eb-8d80-eaf7f0074c04.png)
 Berikut adalah contoh dataset yang digunakan untuk melakukan training model, setiap frame pada video tersebut di ekstrak kedalam numpy array dan diberikan label. Setelah itu dilakukan training. 
 
