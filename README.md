@@ -1,7 +1,7 @@
 # Hand wash edu
 ---
-+ [Gambar Dataset](http://https//github.com/rahmipea/README#gambar-dataset) 
-+ [Dataset](http://https//github.com/rahmipea/README#dataset)
++ [Gambar Dataset](https://github.com/rahmipea/hand-wash-edu/blob/main/README.md#gambar-dataset) 
++ [Dataset](https://github.com/rahmipea/hand-wash-edu/blob/main/README.md#dataset)
 
 ---
 Repo ini berisikan Capstone Project Bangkit 2021 yakni tentang Hand wash edu berupa Aplikasi Android.
