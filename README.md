@@ -20,5 +20,5 @@ Dataset yang sudah di lakukan ekstraksi [Features Extraction](https://drive.goog
 Label [Labels Extraction](https://drive.google.com/file/d/1Oam4rmRaIoWIImoK4y6zfNB0sbbgWKBN/view?usp=sharing) <br>
 
 ## Data test
-Video example yang digunakan untuk menguji model [Data Test](https://drive.google.com/drive/folders/1IfogNspR7Iz3sOIP67Acst3D5PA7k_nz?usp=sharing)
+Video example yang digunakan untuk menguji model [Data Test](https://drive.google.com/drive/folders/1IfogNspR7Iz3sOIP67Acst3D5PA7k_nz?usp=sharing) <br>
 Hasil uji model menggunakan data/video test [Hasil Predict](https://drive.google.com/drive/folders/13BanwmlDZBBc9TsLwTT8jxaQ8hETZDXJ?usp=sharing)
