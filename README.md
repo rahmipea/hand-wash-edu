@@ -2,6 +2,7 @@
 ---
 + [Gambar Dataset](https://github.com/rahmipea/hand-wash-edu/blob/main/README.md#gambar-dataset) 
 + [Dataset](https://github.com/rahmipea/hand-wash-edu/blob/main/README.md#dataset)
++ [Data test](https://github.com/rahmipea/hand-wash-edu/blob/main/README.md#data-test)
 
 ---
 Repo ini berisikan Capstone Project Bangkit 2021 yakni tentang Hand wash edu berupa Aplikasi Android.
@@ -17,3 +18,7 @@ Berikut adalah contoh dataset yang digunakan untuk melakukan training model, set
 Dataset yang digunakan [Handwash Dataset](https://www.kaggle.com/realtimear/hand-wash-dataset) <br>
 Dataset yang sudah di lakukan ekstraksi [Features Extraction](https://drive.google.com/file/d/1emgnWE6IROcyji5VjkMGgK7oh8l6w2cs/view?usp=sharing) <br>
 Label [Labels Extraction](https://drive.google.com/file/d/1Oam4rmRaIoWIImoK4y6zfNB0sbbgWKBN/view?usp=sharing) <br>
+
+## Data test
+Video example yang digunakan untuk menguji model [Data Test](https://drive.google.com/drive/folders/1IfogNspR7Iz3sOIP67Acst3D5PA7k_nz?usp=sharing)
+Hasil uji model menggunakan data/video test [Hasil Predict](https://drive.google.com/drive/folders/13BanwmlDZBBc9TsLwTT8jxaQ8hETZDXJ?usp=sharing)
